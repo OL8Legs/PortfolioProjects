@@ -1,11 +1,4 @@
 # PortfolioProjects
----
-title: Delta456
-date: '2020-14-05'
-spoiler: Tabular Realtime Readme Template
-categories: ["tabular", "all-profile"]
-githubUsername: 'Delta456'
----
 
 ### Hi there
 
